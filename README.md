@@ -55,7 +55,7 @@ Skapa en funktion som listar alla e-mail-adresser enligt det nya formatet.
 | Nederländerna | NL | .nl |
 | Nya Zeeland | NZ | .nz |
 | Australien | AU | .au |
-| Estland | ES | .ee |
+| Estland | EE | .ee |
 | Irland | IE | .ie |
 | Danmark | DK | .dk |
 | Brasilien | BR | .br |
